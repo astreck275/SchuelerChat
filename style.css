@@ -1,0 +1,69 @@
+li {
+    display: inline-block; 
+    margin-right: 1rem;
+    padding: 1.5rem;
+    font-size: 1.5rem;
+}
+ul {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+.eingabe {
+    margin: 12px 0px 12px 0px;
+    text-align: center;
+  }
+.eingabe-gruppe {
+    margin: 12px 0px 12px 0px;
+    text-align: center;
+  }
+.fehler {
+    width: 92%; 
+    margin: 0px auto; 
+    padding: 10px; 
+    background: #28b384; 
+    border-radius: 5px; 
+    text-align: left;
+}
+.erfolg {
+    color: #3c763d; 
+    background: #dff0d8; 
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+.bttn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #073b3d;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+p {
+    text-align: center;
+}
+.header {
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #5F9EA0;
+	text-align: center;
+	padding: 20px;
+}
+
+
