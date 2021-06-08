@@ -1,3 +1,3 @@
 # SchuelerChat
 
-Ein kleines Chatsystem als Projekt für die Schule
+Ein kleines Chatsystem vorallem in PHP als Projekt für die Schule
