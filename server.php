@@ -1,4 +1,4 @@
-<?php
+<?php #asdasddas
 session_start();
 
 $benutzername = "";
