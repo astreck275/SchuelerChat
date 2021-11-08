@@ -98,7 +98,7 @@ if (isset($_POST['login_benutzer'])) {
         $erg = mysqli_query($db, $query);
         if (mysqli_num_rows($erg) == 1) {
           $_SESSION['benutzername'] = $benutzername;
-          $_SESSION['erfolg'] = "Du wurdest eingelogt";
+          $_SESSION['erfolg'] = "Du wurdest eingelogggt";
           header('location: home.php');
         }else {
             array_push($fehler, "Falscher Benutzername oder Passwort");
